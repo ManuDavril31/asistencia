@@ -1,0 +1,24 @@
+* {
+  background-color: #d6d6d6;
+}
+
+.img-center {
+  display: block;
+
+  margin-left: auto;
+
+  margin-right: auto;
+}
+
+.paddingButton {
+  padding-bottom: 200px;
+}
+
+.witdh {
+  background-color: #fff;
+}
+
+.borderInput {
+  border: 5;
+  color: "red";
+}
